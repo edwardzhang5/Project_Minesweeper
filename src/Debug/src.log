@@ -1,0 +1,176 @@
+﻿  Board.cpp
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(78,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(80,15): warning C4244: 'initializing': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(82,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(84,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(85,15): warning C4244: 'initializing': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(88,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(90,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(92,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(94,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(111,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(111,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(115,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(115,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(120,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(120,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(125,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(125,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(130,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(130,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(284,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(287,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(290,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(298,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(301,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(304,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(307,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(319,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(319,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  src.vcxproj -> C:\Users\edwar\Documents\Project_Minesweeper\src\Debug\src.exe

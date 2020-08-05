@@ -1,0 +1,2 @@
+C:\Users\edwar\Documents\Project_Minesweeper\src\Debug\src.exe
+C:\Users\edwar\Documents\Project_Minesweeper\src\Debug\src.pdb
