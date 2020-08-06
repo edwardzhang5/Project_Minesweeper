@@ -6,25 +6,23 @@
 #include "Board.h"
 #include "Random.h"
 
+//Project 3: Minesweeper
+//Author: Edward Zhang
+//Date: 8/9/2020
+
+/*
+The loading of the test boards is done in the Board.cpp file
+*/
 
 using namespace std;
-
-//Change image directory before submission
-//Change board directory too
 int main()
 {
-   
-
     //Code for clicking on something
     //sf::FloatRect rectangle = sprite_name.getGlobalBounds();
     //if(rectangle.contains(sf::Vector2f(position.x,position.y){}
 
     cout << "Game started." << endl;
-    //int test = Random::Int(0, 399);
-    //cout << test << endl;
 
-
-    //map<string, sf::Texture> textureMap;
     Board n;
     n.initiatizeTiles();
     n.setUpBoard(0);
@@ -39,21 +37,15 @@ int main()
                 cout << "Thank you for playing :)" << endl;
                 window.close();
             }
-           
         
             window.clear(sf::Color(255, 255, 255, 255));
             //Insert sprite drawings here
-            //window.draw(sprite);
-            //n.startBoard(window);
+       
             n.updateBoard(window);
 
             window.display();
         }
         
-        
     }
-  
-
-
     return 0;
 }

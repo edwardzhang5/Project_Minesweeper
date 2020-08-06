@@ -12,7 +12,6 @@ Tile::Tile(map<string, sf::Texture>& images, bool mine, float xcor, float ycor)
 	this->hasItem = false;
 	this->numAdjMine = 0;
 
-		
 	back.setPosition(sf::Vector2f(xcor, ycor));
 	back.setTexture(images["tile_revealed"]);
 	front.setPosition(sf::Vector2f(xcor, ycor));
@@ -70,7 +69,7 @@ bool Tile::revealTile()
 	if (isFlagged == true || isReveal==true) {
 		return false;
 	}
-	if (isMine() == true)
+	if (mine == true)
 		return true;
 	else {
 		isReveal = true;

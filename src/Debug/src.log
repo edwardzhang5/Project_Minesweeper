@@ -171,6 +171,6 @@ C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(307,42): warning C424
           ]
 C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(319,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 C:\Users\edwar\Documents\Project_Minesweeper\src\Board.cpp(319,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  main.cpp
+  Tile.cpp
   Generating Code...
   src.vcxproj -> C:\Users\edwar\Documents\Project_Minesweeper\src\Debug\src.exe

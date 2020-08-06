@@ -9,7 +9,7 @@ using namespace std;
 class Board
 {
 public:
-	//git
+	//git test
 	Board();          //If board is created without test data - random numbers
 	
 	void startBoard(sf::RenderWindow& window);

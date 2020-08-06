@@ -3,7 +3,7 @@
 
 Board::Board() 
 {
-	 //access by images["name"}
+	//access by images["name"}
 	//change these paths before submission
 	ifstream testboard1("boards/testboard1.brd");
 	ifstream testboard2("boards/testboard2.brd");
